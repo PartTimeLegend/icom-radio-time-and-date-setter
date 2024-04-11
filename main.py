@@ -1,10 +1,9 @@
+from detect_icom_radio import detect_icom_radio
 from radio_factory import RadioFactory
 from time_date_setter_factory import TimeDateSetterFactory
-from detect_icom_radio import detect_icom_radio
 
 
 def main():
-
 
     # Detect Icom radio attached
     icom_ports = detect_icom_radio()
@@ -25,6 +24,7 @@ def main():
 
         # Close serial connection
         radio.close()
+
 
 if __name__ == "__main__":
     main()

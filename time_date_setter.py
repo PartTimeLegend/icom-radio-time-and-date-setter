@@ -3,8 +3,6 @@ import datetime
 
 class TimeDateSetter:
     @staticmethod
-
-    
     def set_time_and_date(radio_controller):
         now = datetime.datetime.now()
         time_str = now.strftime("%H%M%S")

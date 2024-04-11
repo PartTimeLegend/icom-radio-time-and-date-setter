@@ -15,7 +15,7 @@ This Python script sets the time and date on Icom radios connected to the comput
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your_username/icom-radio-time-and-date-setter.git
+   git clone https://github.com/parttimelegend/icom-radio-time-and-date-setter.git
    ```
 
 2. Navigate to the project directory:

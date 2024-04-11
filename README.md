@@ -1,6 +1,3 @@
-Sure, here's a `README.md` file for the provided code:
-
-```markdown
 # Icom Radio Time and Date Setter
 
 This Python script sets the time and date on Icom radios connected to the computer.
@@ -54,6 +51,3 @@ Contributions are welcome! If you find any issues or want to add new features, p
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
-
-Feel free to adjust the content based on your project's specifics and requirements.

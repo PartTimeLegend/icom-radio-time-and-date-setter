@@ -1,7 +1,10 @@
 import serial
 import time
 
+
 class RadioController:
+
+
     def __init__(self, port, baudrate=9600):
         self.port = port
         self.baudrate = baudrate
